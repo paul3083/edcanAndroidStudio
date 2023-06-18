@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_main_home"
+        android:icon="@drawable/home"
+        android:title="홈"/>
+
+    <item android:id="@+id/menu_main_profile"
+        android:icon="@drawable/person"
+        android:title="프로필"/>
+
+    <item android:id="@+id/menu_main_chat"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="채팅"/>
+
+    <item android:id="@+id/menu_main_analyze"
+        android:icon="@drawable/baseline_leaderboard_24"
+        android:title="분석"/>
+
+    <item android:id="@+id/menu_main_setting"
+        android:icon="@drawable/baseline_build_24"
+        android:title="설정"/>
+
+</menu>
